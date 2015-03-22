@@ -1,7 +1,7 @@
 {
-  "name": "CHECK24",
+  "name": "Template24",
   "version": "1.0.0",
-  "description": "A template for demonstrating coding skills",
+  "description": "A template for demonstration",
   "main": "index.html",
   "dependencies": {
     "grunt-contrib-jasmine": "^0.8.2",
